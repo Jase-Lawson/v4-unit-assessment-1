@@ -1,0 +1,244 @@
+.body{
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+.header {
+  background-color: #89FCD6;
+  width: 100vw;
+  height: 10vh;
+
+}
+
+.header h2{
+  margin-top: 0;
+  padding-top: 20px;
+  padding-left: 15px;
+}
+
+#rectangles{
+  margin-top: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  font-size: 17px;
+  padding-left: 10px;
+  padding-bottom: 0px;
+}
+
+.container-1{
+  border: 1px dotted;
+  height: 22vh;
+  margin-top: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+
+}
+
+.container-1 div.rectangle{
+  background-color: #48187F;
+  height: 60px;
+  width: 125px;
+  border: 2px solid red;
+  margin-top: 80px;
+  margin-left: 10px;
+  display: inline-block;
+}
+
+.container-1 div.square-1{
+  background-color: #0035F8;
+  height: 60px;
+  width: 60px;
+  border: 1px solid black;
+  margin-top: 80px;
+  margin-left: 10px;
+  display: inline-block;
+  box-shadow: 5px 5px 7px black;
+}
+
+.container-1 div.square-2{
+  background-color: #D77493;
+  height: 130px;
+  width: 130px;
+  border: 1px solid black;
+  margin-top: 0px;
+  margin-left: 10px;
+  display: inline-block;
+}
+
+#circles{
+  margin-top: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  font-size: 17px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.container-2{
+  border: 1px dotted;
+  height: 30vh;
+  margin-top: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding-left: 5px;
+
+}
+
+.container-2 div.circle-1{
+  height: 55px;
+  width: 55px;
+  border: solid 1px black;
+  border-radius: 50%;
+  margin-top: 5px;
+  margin-left: 10px;
+}
+
+.container-2 div.circle-1 div.sub-container-1{
+  margin-top: 7px;
+  margin-left: 13px;
+}
+
+.container-2 div.circle-1 div.sub-container-2{
+  margin-top: 2px;
+  margin-left: 15px;
+  
+}
+
+.container-2 div.circle-2{
+  height: 65px;
+  width: 65px;
+  border: solid 1px black;
+  border-radius: 50%;
+  margin-left: 5px;
+}
+
+.container-2 div.circle-2 div.sub-container-1 div.sub-container-1{
+margin-left: 27px;
+margin-bottom: 4px;
+margin-top: 5px;
+}
+
+.container-2 div.circle-2 div.sub-container-1 div.sub-container-2{
+  margin-left: 27px;
+  margin-bottom: 4px;
+}
+
+.container-2 div.circle-2 div.sub-container-1 div.sub-container-3{
+  margin-left: 27px;
+  margin-bottom: 4px;
+}
+
+.container-2 div.circle-3{
+    height: 80px;
+  width: 80px;
+  border: solid 1px black;
+  border-radius: 50%;
+}
+
+#everything{
+  margin-top: 10px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  font-size: 17px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.container-3{
+  border: 1px dotted;
+  height: 22vh;
+  margin-top: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+
+}
+
+.container-3 div.outside-square{
+  border: solid 1px black;
+  background-color: #F5F4DE;
+  height: 145px;
+  width: 145px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+.container-3 div.outside-square div.outside-circle{
+  border: solid 1px black;
+  background-color: #1C7D1A;
+  height: 115px;
+  width: 115px;
+  border-radius: 50%;
+}
+
+.container-3 div.outside-square div.outside-circle div.inside-square{
+  background-color: #A22F2E;
+  height: 72px;
+  width: 72px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.container-3 div.outside-square div.outside-circle div.inside-square div.inside-circle{
+  background-color: #0035F8;
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  margin-bottom: 0;
+}
+
+.container-3 div.outside-square div.outside-circle div.inside-square div.inside-circle > img{
+margin-top: 20px;
+margin-left: 14px;
+}
+
+.container-3 div.outside-square div.outside-circle div.inside-square h6#fish-tank{
+font-size: 9px;
+color: #C3AACA;
+margin-top: 0px;
+text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
